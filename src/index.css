@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Inter:wght@100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Crimson Pro", "Playfair Display", serif;
+  --font-sans: "Inter", "Helvetica Neue", sans-serif;
+  
+  --color-editorial-bg: #1a1a17;
+  --color-editorial-paper: #fcfaf7;
+  --color-editorial-text: #1a1a1a;
+  --color-editorial-body: #4a4a4a;
+  --color-editorial-accent: #8b857a;
+  --color-editorial-gold: #c5a16d;
+}
